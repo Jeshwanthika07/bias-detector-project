@@ -2,8 +2,4 @@ streamlit
 transformers
 torch
 pandas
-matplotlibstreamlit>=1.32
-transformers>=4.40
-torch
-pandas
 matplotlib
