@@ -1,5 +1,6 @@
 streamlit
+matplotlib
+pandas
 transformers
 torch
-pandas
-matplotlib
+
